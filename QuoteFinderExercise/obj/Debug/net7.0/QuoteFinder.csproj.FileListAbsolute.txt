@@ -1,0 +1,14 @@
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\bin\Debug\net7.0\QuoteFinder.exe
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\bin\Debug\net7.0\QuoteFinder.deps.json
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\bin\Debug\net7.0\QuoteFinder.runtimeconfig.json
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\bin\Debug\net7.0\QuoteFinder.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\bin\Debug\net7.0\QuoteFinder.pdb
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.AssemblyInfoInputs.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.AssemblyInfo.cs
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.csproj.CoreCompileInputs.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\refint\QuoteFinder.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.pdb
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\QuoteFinder.genruntimeconfig.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\QuoteFinderExercise\obj\Debug\net7.0\ref\QuoteFinder.dll
