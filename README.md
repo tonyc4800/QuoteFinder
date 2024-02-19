@@ -3,7 +3,14 @@ This is a C# console application that will gather a collection of quotes per a g
 This data will then be displayed to the user. If no quote is found within the collection of quotes then "No quote found on this page" will be displayed. The API being used is the "Quote Garden" API.<br><br> 
 The purpose of this project was to practice the use of asynchronous methods, familiarize myself with the use of APIs, and further practice my overall C# coding skills.<br><br>
 Additionally I strived to maintain strong organization, use clear and concise names for all classes, methods, variables, interfaces, etc. Even going as far as to use records and structs in certain cases.
-One example of that being the use of a struct to minimize the amount of parameters within the GetUserInput method that, as the method name suggests, gathers user input. <br><br>
+One example of that being the use of a struct to minimize the amount of parameters within the GetUserInput method that, as the method name suggests, gathers user input.  
+
+![GetUserInputMethod](./Screenshots/GetUserInputMethod.JPG)  
+
+![GetUserInputMethod](./Screenshots/UserInputStruct.JPG)  
+
+![GetUserInputMethod](./Screenshots/QueryFilterStruct.JPG)
+
 A user also has the option to decide whether or not to process the collection of quotes asynchronously or not. This is mainly done to demonstrate the performance boost achieved, with the use of TPL(Task Parallel Library), when retrieving and processing the collection of quotes.
 The difference in speed is not truly seen until a large data set is used. With this in mind, I stress tested the application using 10 pages at 7000 quotes per page equaling 70,000 total quotes being processed. The maximum total quotes available from Quote Garden being 75,000. The word required to be contained within the quotes ("sea") was chosen arbitrarily. The results can be seen in the screenshots below.<br>
 
